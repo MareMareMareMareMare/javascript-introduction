@@ -1,0 +1,3 @@
+Ovaj cas sam se zabavljao sa pushovanjem fajlova na gihub posto mi nije radilo
+Uspeo sam da pushujem tek nakon sto sam uradio git branch 
+na kraju sam uspeo da pusuhjem i sve mi radi sad i znam kako da pushujem 
