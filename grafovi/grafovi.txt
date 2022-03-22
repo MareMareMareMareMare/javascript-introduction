@@ -1,0 +1,5 @@
+Danas radimo grafove
+Opsti graf je sacinjen od Edge, Edgesa, Node/Vertex i od Vertices
+Postoje ciklicni i aciklicni grafovi
+Grafovi mogu biti disconnected connected i completed
+Algoritam za preporucivanje netflixa koristi graf
